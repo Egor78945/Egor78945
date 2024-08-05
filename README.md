@@ -25,13 +25,13 @@
 6. PostgreSQL | MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="30"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30"/>
           
-7. Docker
-8. Maven
-9. Kafka
-10. RabbitMQ
-11. Liquibase
-12. REST | gRPC | GraphQL
-13. Redis
+7. Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30"/>
+8. Maven <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain.svg" width="30"/>
+9. Kafka <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="30"/>
+10. RabbitMQ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="30"/>
+11. Liquibase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width="30"/>
+12. REST | gRPC | GraphQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="30"/>
+13. Redis <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30"/>
 <!--
 **Egor78945/Egor78945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
