@@ -8,6 +8,7 @@
 <a href="https://t.me/NoAddd">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="100"/>
 </a>
+  
   <a href="https://egor78396@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" width="100"/>
 </a>
