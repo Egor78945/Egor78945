@@ -2,7 +2,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="200"/>
 </div>
 
-
+ <br>
+ 
 <div id="hrefs" align="center">
 <a href="https://t.me/NoAddd">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="100"/>
