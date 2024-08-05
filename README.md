@@ -17,7 +17,7 @@
 Опыта коммерческой разработки не имею, но смог реализовать несколько интересных проектов, которые вы можете увидеть у меня в профиле. 
 
 ## Навыки:
-1. # Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30"/>
+1. Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30"/>
 2. Spring (Boot, Web, Data, Security, MVC) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30"/>
 3. JDBC <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30"/>
 4. Hibernate <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="30"/>
