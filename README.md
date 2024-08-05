@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white" width="100"/>
+  <img src="https://giphy.com/stickers/JetBrains-jetbrains-intellij-idea-intellijidea-iJWXxAr2Za6EtN2Row" width="100"/>
 </div>
 
 ## О себе:
