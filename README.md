@@ -16,8 +16,20 @@
 ## Опыт:
 Опыта коммерческой разработки не имею, но смог реализовать несколько интересных проектов, которые вы можете увидеть у меня в профиле. 
 
-Список:
-1. Один
+## Навыки:
+1. Java
+2. Spring (Boot, Web, Data, Security, MVC)
+3. JDBC
+4. Hibernate
+5. Git
+6. PostgreSQL | MySQL
+7. Docker
+8. Maven
+9. Kafka
+10. RabbitMQ
+11. Liquibase
+12. REST | gRPC | GraphQL
+13. Redis
 <!--
 **Egor78945/Egor78945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
