@@ -19,10 +19,12 @@
 ## Навыки:
 1. Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30"/>
 2. Spring (Boot, Web, Data, Security, MVC) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30"/>
-3. JDBC 
-4. Hibernate
-5. Git
-6. PostgreSQL | MySQL
+3. JDBC <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30"/>
+4. Hibernate <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="30"/>
+5. Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>
+6. PostgreSQL | MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="30"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30"/>
+          
 7. Docker
 8. Maven
 9. Kafka
