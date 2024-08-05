@@ -16,6 +16,8 @@
 ## Опыт:
 Опыта коммерческой разработки не имею, но смог реализовать несколько интересных проектов, которые вы можете увидеть у меня в профиле. 
 
+Список:
+1. Один
 <!--
 **Egor78945/Egor78945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
