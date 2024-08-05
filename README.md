@@ -2,9 +2,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="200"/>
 </div>
 
-<a href="https://t.me/NoAddd" align="center">
+<div id="hrefs" align="center">
+<a href="https://t.me/NoAddd">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="100"/>
 </a>
+</div>
 
 ## О себе:
 Меня зовут Петров Егор, мне 18 лет, я java разработчик.
