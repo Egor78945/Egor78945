@@ -3,7 +3,7 @@
 </div>
 
 <a href="https://t.me/NoAddd">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="100" align="midle"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" align="center" width="100"/>
 </a>
 
 ## О себе:
