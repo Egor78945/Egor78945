@@ -10,6 +10,11 @@
 </a>
 </div>
 
+
+<div align="center">
+  <h1>Java developer</h1>
+</div>
+
 ## О себе:
 Меня зовут Петров Егор, мне 18 лет, я java разработчик.
 
