@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.flaticon.com/free-icon/java_5968282" width="100"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white" width="100"/>
 </div>
 ## О себе:
 Меня зовут Петров Егор, мне 18 лет, я java разработчик.
