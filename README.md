@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://www.flaticon.com/free-icon/java_5968282" width="100"/>
+</div>
 ## О себе:
 Меня зовут Петров Егор, мне 18 лет, я java разработчик.
 ## Опыт:
